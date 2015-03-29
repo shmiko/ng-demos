@@ -3,13 +3,13 @@
   "version": "0.0.0",
   "description": "Code Camper with Breeze, Mongo, Express, Angular, and Node",
   "authors": [
-    "John Papa"
+    "Paul Jones"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/johnpapa/ng-demos",
+  "homepage": "https://github.com/shmiko/ng-demos",
   "repository": {
     "type": "git",
-    "url": "https://github.com/johnpapa/ng-demos.git"
+    "url": "https://github.com/shmiko/ng-demos.git"
   },
   "scripts": {
     "init": "npm install",
