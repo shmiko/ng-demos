@@ -135,7 +135,7 @@
 
             function success() {
                 isPrimed = true;
-                common.logger.info('Primed data', service.lookup.cachedData);
+                common.logger.info('Ready data', service.lookup.cachedData);
             }
         }
 
